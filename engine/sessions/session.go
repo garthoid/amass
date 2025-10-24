@@ -192,11 +192,15 @@ func (s *Session) selectDBMS() error {
 				fallthrough
 			case "neo4+s":
 				fallthrough
+			case "neo4j+ssc": // Add support for Self-Signed Certificates
+				fallthrough
 			case "neo4j+sec":
 				fallthrough
 			case "bolt":
 				fallthrough
 			case "bolt+s":
+				fallthrough
+			case "bolt+ssc": // Add support for Self-Signed Certificates
 				fallthrough
 			case "bolt+sec":
 				s.dsn = db.URL
