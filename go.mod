@@ -57,6 +57,7 @@ require (
 	github.com/d4l3k/messagediff v1.2.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
+	github.com/garthoid/asset-db v0.0.0-20251025152100-ba6fbfd10508 // indirect
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
 	github.com/go-gorp/gorp/v3 v3.1.0 // indirect
 	github.com/go-json-experiment/json v0.0.0-20250813233538-9b1f9ea2e11b // indirect
@@ -113,3 +114,5 @@ require (
 	modernc.org/memory v1.11.0 // indirect
 	modernc.org/sqlite v1.38.2 // indirect
 )
+
+replace github.com/owasp-amass/asset-db => github.com/garthoid/asset-db v0.0.0-20251025152100-ba6fbfd10508
