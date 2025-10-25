@@ -14,6 +14,7 @@ require (
 	github.com/caffix/stringset v0.2.0
 	github.com/cheggaaa/pb/v3 v3.1.7
 	github.com/fatih/color v1.18.0
+	github.com/garthoid/asset-db v0.23.1-garthoid1
 	github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1
 	github.com/glebarez/sqlite v1.11.0
 	github.com/go-ini/ini v1.67.0
@@ -25,8 +26,6 @@ require (
 	github.com/miekg/dns v1.1.68
 	github.com/nyaruka/phonenumbers v1.6.5
 	github.com/openrdap/rdap v0.9.1
-	github.com/owasp-amass/amass/v5 v5.0.1
-	github.com/owasp-amass/asset-db v0.23.1
 	github.com/owasp-amass/open-asset-model v0.15.0
 	github.com/owasp-amass/resolve v0.9.7-0.20250325214539-07077e8c54af
 	github.com/samber/slog-common v0.19.0
