@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 
 	"github.com/owasp-amass/amass/v5/config"
-	assetdb "github.com/owasp-amass/asset-db"
-	"github.com/owasp-amass/asset-db/repository"
-	"github.com/owasp-amass/asset-db/repository/neo4j"
-	"github.com/owasp-amass/asset-db/repository/sqlrepo"
+	assetdb "github.com/garthoid/asset-db"
+	"github.com/garthoid/asset-db/repository"
+	"github.com/garthoid/asset-db/repository/neo4j"
+	"github.com/garthoid/asset-db/repository/sqlrepo"
 )
 
 func OpenGraphDatabase(cfg *config.Config) repository.Repository {

@@ -22,8 +22,8 @@ import (
 	amassdb "github.com/owasp-amass/amass/v5/internal/db"
 	amassnet "github.com/owasp-amass/amass/v5/internal/net"
 	"github.com/owasp-amass/amass/v5/internal/tools"
-	"github.com/owasp-amass/asset-db/repository"
-	dbt "github.com/owasp-amass/asset-db/types"
+	"github.com/garthoid/asset-db/repository"
+	dbt "github.com/garthoid/asset-db/types"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"
 )
 

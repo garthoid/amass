@@ -14,7 +14,7 @@ import (
 
 	et "github.com/owasp-amass/amass/v5/engine/types"
 	"github.com/owasp-amass/amass/v5/internal/net/http"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/contact"
 	"golang.org/x/time/rate"
 )

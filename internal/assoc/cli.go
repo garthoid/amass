@@ -17,7 +17,7 @@ import (
 	"github.com/owasp-amass/amass/v5/config"
 	"github.com/owasp-amass/amass/v5/internal/afmt"
 	"github.com/owasp-amass/amass/v5/internal/tools"
-	"github.com/owasp-amass/asset-db/triples"
+	"github.com/garthoid/asset-db/triples"
 )
 
 const (

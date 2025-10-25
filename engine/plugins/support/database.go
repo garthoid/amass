@@ -15,7 +15,7 @@ import (
 
 	et "github.com/owasp-amass/amass/v5/engine/types"
 	"github.com/owasp-amass/amass/v5/internal/db"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	oamcert "github.com/owasp-amass/open-asset-model/certificate"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"

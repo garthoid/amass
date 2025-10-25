@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/caffix/stringset"
-	"github.com/owasp-amass/asset-db/repository"
+	"github.com/garthoid/asset-db/repository"
 	oam "github.com/owasp-amass/open-asset-model"
 	"github.com/owasp-amass/open-asset-model/network"
 	oamreg "github.com/owasp-amass/open-asset-model/registration"

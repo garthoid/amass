@@ -10,8 +10,8 @@ import (
 	"time"
 
 	amassdb "github.com/owasp-amass/amass/v5/internal/db"
-	"github.com/owasp-amass/asset-db/repository"
-	"github.com/owasp-amass/asset-db/types"
+	"github.com/garthoid/asset-db/repository"
+	"github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	oamcert "github.com/owasp-amass/open-asset-model/certificate"
 	"github.com/owasp-amass/open-asset-model/contact"

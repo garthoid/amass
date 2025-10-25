@@ -17,8 +17,8 @@ import (
 	"github.com/owasp-amass/amass/v5/internal/afmt"
 	amassdb "github.com/owasp-amass/amass/v5/internal/db"
 	"github.com/owasp-amass/amass/v5/internal/tools"
-	"github.com/owasp-amass/asset-db/repository"
-	dbt "github.com/owasp-amass/asset-db/types"
+	"github.com/garthoid/asset-db/repository"
+	dbt "github.com/garthoid/asset-db/types"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"
 )
 

@@ -7,7 +7,7 @@ package types
 import (
 	"github.com/caffix/pipeline"
 	"github.com/google/uuid"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 )
 
