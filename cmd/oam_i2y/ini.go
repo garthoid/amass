@@ -15,7 +15,7 @@ import (
 
 	"github.com/caffix/stringset"
 	"github.com/go-ini/ini"
-	"github.com/owasp-amass/amass/v5/internal/net/dns"
+	"github.com/garthoid/amass/v5/internal/net/dns"
 )
 
 // Updater allows an object to implement a method that updates a configuration.

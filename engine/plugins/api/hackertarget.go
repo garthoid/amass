@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/owasp-amass/amass/v5/engine/plugins/support"
-	et "github.com/owasp-amass/amass/v5/engine/types"
-	"github.com/owasp-amass/amass/v5/internal/net/http"
+	"github.com/garthoid/amass/v5/engine/plugins/support"
+	et "github.com/garthoid/amass/v5/engine/types"
+	"github.com/garthoid/amass/v5/internal/net/http"
 	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"

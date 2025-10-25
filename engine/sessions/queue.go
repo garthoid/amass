@@ -8,7 +8,7 @@ import (
 	"errors"
 	"path/filepath"
 
-	qdb "github.com/owasp-amass/amass/v5/engine/sessions/queuedb"
+	qdb "github.com/garthoid/amass/v5/engine/sessions/queuedb"
 	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 )
