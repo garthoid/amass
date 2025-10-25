@@ -13,9 +13,9 @@ import (
 	"github.com/owasp-amass/amass/v5/config"
 	"github.com/owasp-amass/amass/v5/engine/pubsub"
 	"github.com/owasp-amass/amass/v5/engine/sessions/scope"
-	"github.com/owasp-amass/asset-db/cache"
-	"github.com/owasp-amass/asset-db/repository"
-	dbt "github.com/owasp-amass/asset-db/types"
+	"github.com/garthoid/asset-db/cache"
+	"github.com/garthoid/asset-db/repository"
+	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	"github.com/yl2chen/cidranger"
 )

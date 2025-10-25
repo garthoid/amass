@@ -11,7 +11,7 @@ import (
 
 	"github.com/owasp-amass/amass/v5/engine/plugins/support/org"
 	et "github.com/owasp-amass/amass/v5/engine/types"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/general"
 )
 

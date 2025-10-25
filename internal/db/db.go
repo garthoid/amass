@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/caffix/stringset"
-	"github.com/owasp-amass/asset-db/repository"
-	dbt "github.com/owasp-amass/asset-db/types"
+	"github.com/garthoid/asset-db/repository"
+	dbt "github.com/garthoid/asset-db/types"
 )
 
 func FindByFQDNScope(db repository.Repository, entity *dbt.Entity, since time.Time) ([]*dbt.Entity, error) {

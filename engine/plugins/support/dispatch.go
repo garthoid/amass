@@ -8,7 +8,7 @@ import (
 	"log/slog"
 
 	et "github.com/owasp-amass/amass/v5/engine/types"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"
 	"github.com/owasp-amass/open-asset-model/general"

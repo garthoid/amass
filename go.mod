@@ -26,6 +26,7 @@ require (
 	github.com/miekg/dns v1.1.68
 	github.com/nyaruka/phonenumbers v1.6.5
 	github.com/openrdap/rdap v0.9.1
+	github.com/owasp-amass/amass/v5 v5.0.1
 	github.com/owasp-amass/open-asset-model v0.15.0
 	github.com/owasp-amass/resolve v0.9.7-0.20250325214539-07077e8c54af
 	github.com/samber/slog-common v0.19.0
@@ -82,6 +83,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/neo4j/neo4j-go-driver/v5 v5.28.3 // indirect
+	github.com/owasp-amass/asset-db v0.23.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.23.1 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect

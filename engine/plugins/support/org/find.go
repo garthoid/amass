@@ -9,7 +9,7 @@ import (
 	"time"
 
 	et "github.com/owasp-amass/amass/v5/engine/types"
-	dbt "github.com/owasp-amass/asset-db/types"
+	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/contact"
 	oamorg "github.com/owasp-amass/open-asset-model/org"
 )
