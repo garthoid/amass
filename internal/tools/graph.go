@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/owasp-amass/amass/v5/config"
+	"github.com/garthoid/amass/v5/config"
 	assetdb "github.com/garthoid/asset-db"
 	"github.com/garthoid/asset-db/repository"
 	"github.com/garthoid/asset-db/repository/neo4j"

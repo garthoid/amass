@@ -8,7 +8,7 @@ import (
 	"errors"
 	"time"
 
-	et "github.com/owasp-amass/amass/v5/engine/types"
+	et "github.com/garthoid/amass/v5/engine/types"
 	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/contact"
 	oamorg "github.com/owasp-amass/open-asset-model/org"

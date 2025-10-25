@@ -13,7 +13,7 @@ import (
 
 	"github.com/adrg/strutil"
 	"github.com/adrg/strutil/metrics"
-	et "github.com/owasp-amass/amass/v5/engine/types"
+	et "github.com/garthoid/amass/v5/engine/types"
 	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/general"
 	"github.com/owasp-amass/open-asset-model/org"

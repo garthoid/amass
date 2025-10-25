@@ -9,8 +9,8 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/owasp-amass/amass/v5/config"
-	et "github.com/owasp-amass/amass/v5/engine/types"
+	"github.com/garthoid/amass/v5/config"
+	et "github.com/garthoid/amass/v5/engine/types"
 	oamdns "github.com/owasp-amass/open-asset-model/dns"
 	oamnet "github.com/owasp-amass/open-asset-model/network"
 )

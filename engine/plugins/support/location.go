@@ -5,7 +5,7 @@
 package support
 
 import (
-	"github.com/owasp-amass/amass/v5/internal/libpostal"
+	"github.com/garthoid/amass/v5/internal/libpostal"
 	"github.com/owasp-amass/open-asset-model/contact"
 )
 

@@ -10,9 +10,9 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/owasp-amass/amass/v5/config"
-	"github.com/owasp-amass/amass/v5/engine/pubsub"
-	"github.com/owasp-amass/amass/v5/engine/sessions/scope"
+	"github.com/garthoid/amass/v5/config"
+	"github.com/garthoid/amass/v5/engine/pubsub"
+	"github.com/garthoid/amass/v5/engine/sessions/scope"
 	"github.com/garthoid/asset-db/cache"
 	"github.com/garthoid/asset-db/repository"
 	dbt "github.com/garthoid/asset-db/types"

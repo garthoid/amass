@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	amassdb "github.com/owasp-amass/amass/v5/internal/db"
+	amassdb "github.com/garthoid/amass/v5/internal/db"
 	"github.com/garthoid/asset-db/repository"
 	"github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"

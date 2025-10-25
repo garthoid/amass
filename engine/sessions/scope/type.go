@@ -7,7 +7,7 @@ package scope
 import (
 	"sync"
 
-	"github.com/owasp-amass/amass/v5/config"
+	"github.com/garthoid/amass/v5/config"
 	oam "github.com/owasp-amass/open-asset-model"
 )
 

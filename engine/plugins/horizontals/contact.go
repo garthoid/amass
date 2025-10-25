@@ -7,8 +7,8 @@ package horizontals
 import (
 	"errors"
 
-	"github.com/owasp-amass/amass/v5/engine/sessions/scope"
-	et "github.com/owasp-amass/amass/v5/engine/types"
+	"github.com/garthoid/amass/v5/engine/sessions/scope"
+	et "github.com/garthoid/amass/v5/engine/types"
 	dbt "github.com/garthoid/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	"github.com/owasp-amass/open-asset-model/contact"

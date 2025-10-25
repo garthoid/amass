@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/google/uuid"
-	"github.com/owasp-amass/amass/v5/engine/api/graphql/client"
+	"github.com/garthoid/amass/v5/engine/api/graphql/client"
 )
 
 func engineIsRunning() bool {

@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/owasp-amass/amass/v5/internal/net/http"
+	"github.com/garthoid/amass/v5/internal/net/http"
 )
 
 type parsed struct {

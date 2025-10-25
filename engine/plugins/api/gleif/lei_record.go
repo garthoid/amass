@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/owasp-amass/amass/v5/engine/plugins/support/org"
-	et "github.com/owasp-amass/amass/v5/engine/types"
+	"github.com/garthoid/amass/v5/engine/plugins/support/org"
+	et "github.com/garthoid/amass/v5/engine/types"
 	dbt "github.com/garthoid/asset-db/types"
 	"github.com/owasp-amass/open-asset-model/general"
 )
