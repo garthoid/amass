@@ -14,7 +14,7 @@ require (
 	github.com/caffix/stringset v0.2.0
 	github.com/cheggaaa/pb/v3 v3.1.7
 	github.com/fatih/color v1.18.0
-	github.com/garthoid/asset-db v0.23.1-garthoid2
+	github.com/garthoid/asset-db v0.23.1-garthoid3
 	github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1
 	github.com/glebarez/sqlite v1.11.0
 	github.com/go-ini/ini v1.67.0
@@ -83,7 +83,6 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/neo4j/neo4j-go-driver/v5 v5.28.3 // indirect
-	github.com/owasp-amass/asset-db v0.23.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.23.1 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
