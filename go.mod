@@ -25,6 +25,7 @@ require (
 	github.com/miekg/dns v1.1.68
 	github.com/nyaruka/phonenumbers v1.6.5
 	github.com/openrdap/rdap v0.9.1
+	github.com/owasp-amass/amass/v5 v5.0.1
 	github.com/owasp-amass/asset-db v0.23.1
 	github.com/owasp-amass/open-asset-model v0.15.0
 	github.com/owasp-amass/resolve v0.9.7-0.20250325214539-07077e8c54af
@@ -54,10 +55,8 @@ require (
 	github.com/chromedp/cdproto v0.0.0-20250803210736-d308e07a266d // indirect
 	github.com/chromedp/chromedp v0.14.1 // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
-	github.com/d4l3k/messagediff v1.2.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
-	github.com/garthoid/asset-db v0.0.0-20251025152100-ba6fbfd10508 // indirect
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
 	github.com/go-gorp/gorp/v3 v3.1.0 // indirect
 	github.com/go-json-experiment/json v0.0.0-20250813233538-9b1f9ea2e11b // indirect
@@ -114,5 +113,3 @@ require (
 	modernc.org/memory v1.11.0 // indirect
 	modernc.org/sqlite v1.38.2 // indirect
 )
-
-replace github.com/owasp-amass/asset-db => github.com/garthoid/asset-db v0.0.0-20251025152100-ba6fbfd10508
