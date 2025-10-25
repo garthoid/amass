@@ -14,7 +14,7 @@ require (
 	github.com/caffix/stringset v0.2.0
 	github.com/cheggaaa/pb/v3 v3.1.7
 	github.com/fatih/color v1.18.0
-	github.com/garthoid/asset-db v0.23.1-garthoid2:
+	github.com/garthoid/asset-db v0.23.1-garthoid2
 	github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1
 	github.com/glebarez/sqlite v1.11.0
 	github.com/go-ini/ini v1.67.0
