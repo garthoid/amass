@@ -13,7 +13,6 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/uuid"
 	"github.com/garthoid/amass/v5/config"
 	"github.com/garthoid/amass/v5/engine/pubsub"
 	"github.com/garthoid/amass/v5/engine/sessions/scope"
@@ -23,6 +22,7 @@ import (
 	"github.com/garthoid/asset-db/repository"
 	"github.com/garthoid/asset-db/repository/neo4j"
 	"github.com/garthoid/asset-db/repository/sqlrepo"
+	"github.com/google/uuid"
 	"github.com/yl2chen/cidranger"
 )
 
@@ -190,7 +190,7 @@ func (s *Session) selectDBMS() error {
 				s.dbtype = sqlrepo.SQLite
 			case "neo4j":
 				fallthrough
-			case "neo4+s":
+			case "neo4j+s":
 				fallthrough
 			case "neo4j+ssc": // Add support for Self-Signed Certificates
 				fallthrough
