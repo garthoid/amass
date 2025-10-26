@@ -785,6 +785,7 @@ github.com/garthoid/asset-db v0.23.1-garthoid4 h1:IdfEzcjlFYFHf59mB5w/JGOiyaFC67
 github.com/garthoid/asset-db v0.23.1-garthoid4/go.mod h1:Zv3e+KJdQw3Elh1MEJswotvlRFJEFPbEL9b/p8tYcWQ=
 github.com/garthoid/asset-db v0.23.1-garthoid5 h1:vberg89A8/DFD46qWQOgOWlqTi9/qH8OR8ofERZYQXo=
 github.com/garthoid/asset-db v0.23.1-garthoid5/go.mod h1:Zv3e+KJdQw3Elh1MEJswotvlRFJEFPbEL9b/p8tYcWQ=
+github.com/garthoid/asset-db v0.23.1-garthoid6/go.mod h1:Zv3e+KJdQw3Elh1MEJswotvlRFJEFPbEL9b/p8tYcWQ=
 github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1 h1:oYT8DpEDwrouX3Ov76aIbi1tJqRk/ii4M2OdAqFQ4j0=
 github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1/go.mod h1:hYaPapwCtcfrknKKZyCKtShsxylf+0pgaPUMXQzSONs=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
